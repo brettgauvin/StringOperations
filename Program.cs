@@ -28,6 +28,7 @@ static string skyLineConvert(string name)
 
 Console.WriteLine($"{name} in skyline format is {staggeredLetters}");
 Console.ReadLine();
+Console.WriteLine("--------------------------------------------------------------------");
 
 
 // Reverse a string
@@ -48,6 +49,7 @@ static string reverse(string name)
 
 Console.WriteLine($"{name} spelled backwards is {backwards}");
 Console.ReadLine();
+Console.WriteLine("--------------------------------------------------------------------");
 
 // Swap letters
 string startingString = "Following the light of the sun, we left the Old World";
